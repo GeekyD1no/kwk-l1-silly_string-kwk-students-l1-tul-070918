@@ -23,9 +23,9 @@ puts lowercased_phrase
 
 big_word = "supercalifragilisticexpialidocious"
 
-letter_count = big_word.size # Put a . after big_word and use a String method.
+letter_count = big_word.length # Put a . after big_word and use a String method.
 
-puts "There are 34 words in supercalifragilisticexpialidocious"
+puts "There are 34 letters in supercalifragilisticexpialidocious"
 
 # Challenge 5: Add "wow" and "mom" to big_word
 
